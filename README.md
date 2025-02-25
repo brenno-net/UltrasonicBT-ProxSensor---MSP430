@@ -78,7 +78,7 @@ O projeto atendeu aos objetivos propostos:
 O projeto demonstrou várias implementações práticas aprendidas ao longo do semestre, incluindo:  
 - GPIO  
 - Interrupções  
-- Comunicação serial (I2C, SPI e UART)  
+- Comunicação serial (UART)  
 
 Essas implementações mostraram-se eficazes para resolver um problema real, demonstrando potencial para novos projetos futuros.  
 
