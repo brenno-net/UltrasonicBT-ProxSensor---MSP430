@@ -14,7 +14,7 @@ O sistema foi idealizado para resolver problemas de segurança residencial, onde
 - **Sensor Ultrassônico:** HC-SR04  
 - **Resistores:** 1 de 22k e 1 de 33k  
 - **Jumper Macho/Fêmea:** 4 unidades  
-- **Jumper Macho/Macho:** 4 unidades  
+- **Jumper Fêmea/Fêmea:** 4 unidades  
 - **Mini Protoboard:** 1 unidade  
 
 ---
